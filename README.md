@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amina Ashraf.
 - 👀 I’m interested in exploring and learning new.
 - 🌱 I’m currently learning Biomedical Design.
-- 💞️ Find my personal projects at @aminarifa
+- 💞️ Find my personal projects at @aminarifa.
 
 
 <!---
