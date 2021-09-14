@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amina Ashraf.
-- 👀 I’m interested in exploring and learning new.
+- 👀 I’m enthusiastic to gain new skills and knowledge. 
 - 🌱 I’m currently specializing in Biomedical Design.
-- 💞️ Find my personal interest projects at [@aminarifa](https://github.com/aminarifa)
+- 💞️ Find my personal interest projects below.
 
 
 <!---
