@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Amina Ashraf.
 - 🌱 I’m specializing in Biomedical Design.
+- ✨ I'm a ML/DL/Computer vision enthusiast.
 - 💞️ Find my personal interest projects below.
 
 
